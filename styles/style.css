@@ -22,9 +22,6 @@ html, body {
     font-size: 16px;
 }
 
-/* .navbar-container {
-    position: relative;
-} */
 .navbar {
     position: fixed;
     top: 0;
